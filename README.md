@@ -1,0 +1,1 @@
+# Scalable-Web-App-Architecture-Using-JHipster-7
